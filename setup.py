@@ -8,4 +8,7 @@ setup(
     author="Louis Thompson",
     author_email="104149942+L-Pson@users.noreply.github.com",
     python_requires=">=3.8",
+    install_requires=[
+        "Django>=3.2",
+    ],
 )
